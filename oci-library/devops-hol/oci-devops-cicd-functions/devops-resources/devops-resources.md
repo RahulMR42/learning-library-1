@@ -53,7 +53,7 @@ In this lab, as a developer or SRE,
 
     ![Build Specs](./images/oci-coderepo-buildspec.png)
 
-    Optional : You can check all the options in the code repo and read more about [OCI code repo here.](https://docs.oracle.com/en-us/iaas/Content/devops/using/managing-coderepo.htm)
+    Optional : You can check all the options in the code repo and read more about [OCI code repo here.](https://docs.oracle.com/en-us/iaas/Content/devops/using/managing_coderepo.htm)
 
 1. Go back to the project overview page ,click on the Latest Build Pipeline named `Function-Python-Buildpipeline`.It will open up the build pipeline and show the different stages. 
 
