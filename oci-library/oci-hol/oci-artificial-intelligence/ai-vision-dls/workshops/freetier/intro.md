@@ -1,4 +1,4 @@
-# OCI Vision and Data Labeling Service
+# Use the OCI Vision and Data Labeling Service
 
 ## Introduction
 
@@ -28,9 +28,6 @@ In this workshop, you will:
 * Assumes that the end-user has full administrative privileges in the tenancy
 * Some familiarity with OCI CLI is desirable, but not required
 * Some familiarity with Python is desirable, but not required
-
->**Note:** If you have a **Free Trial** account, when your Free Trial expires, your account will be converted to an **Always Free** account. You will not be able to conduct Free Tier workshops unless the Always Free environment is available.
-**[Click here for the Free Tier FAQ page.](https://www.oracle.com/cloud/free/faq.html)**
 
 [Proceed to the next section](#next).
 
